@@ -29,6 +29,11 @@ pre code{
     padding: 0.5em;
 }
 
+code {
+    background: #ffe4e4;
+    color: #d45b5b;
+}
+
 html {
     height: 100%;
     overflow: auto;
